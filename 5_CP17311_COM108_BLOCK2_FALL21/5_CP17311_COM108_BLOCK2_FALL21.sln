@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.0_GioiThieuLapTrinhC"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.1_KhaiNiemVeBien", "Bai_1.1_KhaiNiemVeBien\Bai_1.1_KhaiNiemVeBien.vcxproj", "{A744C3ED-0654-457F-A1D0-62D1BE897B93}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.2_CauLenhXuatRaManHinh", "Bai_1.2_CauLenhXuatRaManHinh\Bai_1.2_CauLenhXuatRaManHinh.vcxproj", "{DADB1286-2671-41CF-9406-E2178317F3B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{A744C3ED-0654-457F-A1D0-62D1BE897B93}.Release|x64.Build.0 = Release|x64
 		{A744C3ED-0654-457F-A1D0-62D1BE897B93}.Release|x86.ActiveCfg = Release|Win32
 		{A744C3ED-0654-457F-A1D0-62D1BE897B93}.Release|x86.Build.0 = Release|Win32
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Debug|x64.ActiveCfg = Debug|x64
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Debug|x64.Build.0 = Debug|x64
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Debug|x86.Build.0 = Debug|Win32
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Release|x64.ActiveCfg = Release|x64
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Release|x64.Build.0 = Release|x64
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Release|x86.ActiveCfg = Release|Win32
+		{DADB1286-2671-41CF-9406-E2178317F3B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

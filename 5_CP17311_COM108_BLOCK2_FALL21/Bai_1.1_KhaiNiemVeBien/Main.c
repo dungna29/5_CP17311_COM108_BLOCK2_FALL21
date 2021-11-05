@@ -48,6 +48,11 @@ int main()
 	//2. Ký tự: Chỉ có thể lưu trữ được 1 giá trị
 	char c = '5';
 	char cc3 = 'a';
-	
+	//3. Kiểu số thực
+	double d = 1.4;
+	//4. Kiểu logic
+	printf_s("%d",5 == 5);//=0
+	// 0 = False
+	// 1 = true
 	
 }
