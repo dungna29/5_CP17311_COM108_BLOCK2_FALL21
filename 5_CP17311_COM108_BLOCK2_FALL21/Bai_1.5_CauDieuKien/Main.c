@@ -95,4 +95,23 @@ int main()
 	 *	5 -> 6 = TB
 	 *	0 -> 5 = Học lại
 	 */
+	double diemThiC;
+	printf_s("Moi nhap diem thi C: ");
+	scanf_s("%lf", &diemThiC);
+	if (diemThiC>=9 && diemThiC <=10)
+	{
+		printf_s("Sieu nhan");
+	}else if (diemThiC >= 8 && diemThiC < 9)
+	{
+		printf_s("Gioi");
+	}else if (diemThiC >= 6 && diemThiC < 7)
+	{
+		printf_s("Kha");
+	}else if (diemThiC >= 5 && diemThiC < 6)
+	{
+		printf_s("TB");
+	}else
+	{
+		printf_s("Ban da mat 759K");
+	}
 }
