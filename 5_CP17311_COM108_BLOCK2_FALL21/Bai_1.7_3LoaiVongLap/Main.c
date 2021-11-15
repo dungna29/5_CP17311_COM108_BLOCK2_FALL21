@@ -13,6 +13,7 @@
 int main()
 {
 	//Phần 1: Ví dụ In Ra 10 lần câu Tôi muốn học lập trình
+	/*printf_s("Toi muon hoc lap trinh");
 	printf_s("Toi muon hoc lap trinh");
 	printf_s("Toi muon hoc lap trinh");
 	printf_s("Toi muon hoc lap trinh");
@@ -21,8 +22,7 @@ int main()
 	printf_s("Toi muon hoc lap trinh");
 	printf_s("Toi muon hoc lap trinh");
 	printf_s("Toi muon hoc lap trinh");
-	printf_s("Toi muon hoc lap trinh");
-	printf_s("Toi muon hoc lap trinh");
+	printf_s("Toi muon hoc lap trinh");*/
 
 	//Phần 2: Sử dụng vòng lặp để giải quyết bài toán trên khi cần lặp lại 1 hành động.
 	//Vòng lặp for: for + tab
@@ -40,7 +40,7 @@ int main()
 
 	for (int i = 0; i < 10; i++)
 	{
-		printf_s("Toi muon hoc lap trinh");
+		printf_s("Toi muon hoc lap trinh \n");
 	}
 
 	//Vòng lặp While true: wh + tab
@@ -52,24 +52,25 @@ int main()
 	int i = 0;
 	while (i < 10)
 	{
-		printf_s("Toi muon hoc lap trinh");
+		printf_s("Toi muon hoc lap trinh \n");
 		i++;
 	}
 
 	//Viết 1 chương trình tính tổng và hiệu 2 số có sử dụng Switch Case và vòng lặp.
-	while (1)
-	{
-		int a, b, input;
-		printf_s("Moi ban nhap so a: ");
-		scanf_s("%d", &a);
-		printf_s("Moi ban nhap so b: ");
-		scanf_s("%d", &b);
+	int a, b, input = 0;
+	while (input!=3)
+	{	
+	
 		printf_s("Chuong trinh tinh tong hieu FPOLY \n");
 		printf_s("1. Tinh Tong  \n");
 		printf_s("2. Tinh Hieu  \n");
 		printf_s("3. Thoat  \n");
 		printf_s("Moi ban chon chuc nang: ");
 		scanf_s("%d", &input);
+		printf_s("Moi ban nhap so a: ");
+		scanf_s("%d", &a);
+		printf_s("Moi ban nhap so b: ");
+		scanf_s("%d", &b);
 		switch (input)
 		{
 		case 1:
@@ -78,11 +79,26 @@ int main()
 		case 2:
 			break;
 		case 3:
+			//Thoát
+			printf("Hen gap lai lan sau");
+			//return;
 			break;
 		default:
 			break;
 		}
 
+		//Bảng cửu chương
+		/*
+		*	3 x 1 = 3
+		*	3 x 2 = 6
+		*	......
+		*	3 x 9 = 27
+		*/
+		int bcc = 3;
+		for (int i = 1; i < 10; i++)
+		{
+			printf("%d x %d = %d \n",bcc,i,bcc*i);
+		}
 	}
 
 }

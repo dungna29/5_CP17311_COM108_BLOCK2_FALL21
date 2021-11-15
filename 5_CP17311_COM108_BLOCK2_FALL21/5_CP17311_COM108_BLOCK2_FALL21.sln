@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.0_GioiThieuLapTrinhC", "Bai_1.0_GioiThieuLapTrinhC\Bai_1.0_GioiThieuLapTrinhC.vcxproj", "{2FA4FE26-D1D4-408A-909E-EF2430578EEE}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.6_SwitchCase", "Bai_1.6_SwitchCase\Bai_1.6_SwitchCase.vcxproj", "{957E03AD-367B-4F98-BD31-900DD3B1EFCF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.7_3LoaiVongLap", "Bai_1.7_3LoaiVongLap\Bai_1.7_3LoaiVongLap.vcxproj", "{A4BDC077-2DAF-45F1-BA9B-C146613D3FA8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BAITAP_LAB1_LAB2", "BAITAP_LAB1_LAB2\BAITAP_LAB1_LAB2.vcxproj", "{9B5AA038-1EBD-4D50-811E-3F2707FC528A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,14 @@ Global
 		{A4BDC077-2DAF-45F1-BA9B-C146613D3FA8}.Release|x64.Build.0 = Release|x64
 		{A4BDC077-2DAF-45F1-BA9B-C146613D3FA8}.Release|x86.ActiveCfg = Release|Win32
 		{A4BDC077-2DAF-45F1-BA9B-C146613D3FA8}.Release|x86.Build.0 = Release|Win32
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Debug|x64.ActiveCfg = Debug|x64
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Debug|x64.Build.0 = Debug|x64
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Debug|x86.Build.0 = Debug|Win32
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Release|x64.ActiveCfg = Release|x64
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Release|x64.Build.0 = Release|x64
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Release|x86.ActiveCfg = Release|Win32
+		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

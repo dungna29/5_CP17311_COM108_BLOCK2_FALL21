@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4bdc077-2daf-45f1-ba9b-c146613d3fa8": {
+      "ProjectGuid": "a4bdc077-2daf-45f1-ba9b-c146613d3fa8",
+      "DisplayName": "Bai_1.7_3LoaiVongLap",
+      "ColorIndex": 0
+    },
+    "fc38165b-b421-4516-9906-9f28a7dd4cfa": {
+      "ProjectGuid": "fc38165b-b421-4516-9906-9f28a7dd4cfa",
+      "DisplayName": "Bai_1.5_CauDieuKien",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
