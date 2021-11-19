@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.7_3LoaiVongLap", "Bai
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BAITAP_LAB1_LAB2", "BAITAP_LAB1_LAB2\BAITAP_LAB1_LAB2.vcxproj", "{9B5AA038-1EBD-4D50-811E-3F2707FC528A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CHUA_BAI_LAB12_MAU", "CHUA_BAI_LAB12_MAU\CHUA_BAI_LAB12_MAU.vcxproj", "{40C32B87-B3D8-48C5-895F-FBED55A3173A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Release|x64.Build.0 = Release|x64
 		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Release|x86.ActiveCfg = Release|Win32
 		{9B5AA038-1EBD-4D50-811E-3F2707FC528A}.Release|x86.Build.0 = Release|Win32
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Debug|x64.ActiveCfg = Debug|x64
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Debug|x64.Build.0 = Debug|x64
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Debug|x86.ActiveCfg = Debug|Win32
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Debug|x86.Build.0 = Debug|Win32
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Release|x64.ActiveCfg = Release|x64
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Release|x64.Build.0 = Release|x64
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Release|x86.ActiveCfg = Release|Win32
+		{40C32B87-B3D8-48C5-895F-FBED55A3173A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

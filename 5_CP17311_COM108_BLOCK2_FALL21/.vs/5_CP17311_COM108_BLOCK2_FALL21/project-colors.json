@@ -10,7 +10,22 @@
       "ProjectGuid": "fc38165b-b421-4516-9906-9f28a7dd4cfa",
       "DisplayName": "Bai_1.5_CauDieuKien",
       "ColorIndex": 1
+    },
+    "2fa4fe26-d1d4-408a-909e-ef2430578eee": {
+      "ProjectGuid": "2fa4fe26-d1d4-408a-909e-ef2430578eee",
+      "DisplayName": "Bai_1.0_GioiThieuLapTrinhC",
+      "ColorIndex": 2
+    },
+    "a744c3ed-0654-457f-a1d0-62d1be897b93": {
+      "ProjectGuid": "a744c3ed-0654-457f-a1d0-62d1be897b93",
+      "DisplayName": "Bai_1.1_KhaiNiemVeBien",
+      "ColorIndex": 3
+    },
+    "40c32b87-b3d8-48c5-895f-fbed55a3173a": {
+      "ProjectGuid": "40c32b87-b3d8-48c5-895f-fbed55a3173a",
+      "DisplayName": "CHUA_BAI_LAB12_MAU",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

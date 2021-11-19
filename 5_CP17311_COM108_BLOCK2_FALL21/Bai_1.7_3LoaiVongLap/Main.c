@@ -12,6 +12,11 @@
 
 int main()
 {
+	
+	for (int i = 0; i < 1000; i++)
+	{
+		printf_s("Toi muon hoc lap trinh");
+	}
 	//Phần 1: Ví dụ In Ra 10 lần câu Tôi muốn học lập trình
 	/*printf_s("Toi muon hoc lap trinh");
 	printf_s("Toi muon hoc lap trinh");
