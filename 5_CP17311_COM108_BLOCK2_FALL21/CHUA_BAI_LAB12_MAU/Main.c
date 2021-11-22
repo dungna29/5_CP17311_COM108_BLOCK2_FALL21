@@ -2,6 +2,7 @@
 int main()
 {
 	int khoang1, khoang2;
+	int tongCacSo = 0, so, solan;
 	int input;//Khai báo 1 biến số nguyên
 	while (1)//1 = true
 	{
@@ -45,10 +46,41 @@ int main()
 			}
 			break;
 		case 3:
+			printf_s("Moi ban nhap so luong so: ");
+			scanf_s("%d", &solan);//3
+			for (int i = 0; i < solan; i++)
+			{
+				printf_s("Moi ban nhap so thu %d :", i);
+				scanf_s("%d", &so);//Gán tuần tự trên từng vòng lặp.
+				tongCacSo = tongCacSo + so;
+				//tongCacSo += so;//Cách trên là viết tường minh
+			}
+			printf("Tong day so cac ban vua nhap vao la: %d", tongCacSo);
 			break;
 		case 4:
+			printf_s("Moi ban nhap so luong diem C: ");
+			scanf_s("%d", &solan);//3
+			for (int i = 0; i < solan; i++)
+			{
+				printf_s("Moi ban nhap diem thu %d :", i);
+				scanf_s("%d", &so);//Gán tuần tự trên từng vòng lặp.
+				tongCacSo = tongCacSo + so;
+				//tongCacSo += so;//Cách trên là viết tường minh
+			}
+			printf("Trung binh diem C khi nhap vao: %d", tongCacSo / solan);
 			break;
 		case 5:
+			while (1)
+			{
+				printf_s("Moi ban nhap so le: ");
+				scanf_s("%d", &so);//So sánh với bài mình
+				if (so % 2 != 0)
+				{
+					printf_s("Chung mung ban thong minh qua. Hen gap lai lan sau \n");
+					break;
+				}
+				printf_s("Ban vui long nhap lai.\n");
+			}
 			break;
 		case 6:
 			break;

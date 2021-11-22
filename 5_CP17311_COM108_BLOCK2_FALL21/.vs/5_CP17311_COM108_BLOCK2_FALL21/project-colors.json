@@ -25,7 +25,12 @@
       "ProjectGuid": "40c32b87-b3d8-48c5-895f-fbed55a3173a",
       "DisplayName": "CHUA_BAI_LAB12_MAU",
       "ColorIndex": 4
+    },
+    "dadb1286-2671-41cf-9406-e2178317f3b9": {
+      "ProjectGuid": "dadb1286-2671-41cf-9406-e2178317f3b9",
+      "DisplayName": "Bai_1.2_CauLenhXuatRaManHinh",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
