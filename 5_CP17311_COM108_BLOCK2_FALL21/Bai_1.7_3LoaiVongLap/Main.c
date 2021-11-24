@@ -104,6 +104,19 @@ int main()
 		{
 			printf("%d x %d = %d \n",bcc,i,bcc*i);
 		}
+
+		//Vòng lặp Do While: do + tab
+		// do
+		// {
+		// 	 Thực hiện ít nhất 1 lần trong trường hợp điều kiện sai.
+		// }
+		// while (1);
+
+		do
+		{
+			printf_s("Chao cac ban 1");
+		}
+		while (5<5);//Vẫn in ra 1 lần câu chào bạn
 	}
 
 }

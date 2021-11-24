@@ -30,7 +30,12 @@
       "ProjectGuid": "dadb1286-2671-41cf-9406-e2178317f3b9",
       "DisplayName": "Bai_1.2_CauLenhXuatRaManHinh",
       "ColorIndex": 5
+    },
+    "4e647219-d863-4cf8-9d45-182a0d5903ce": {
+      "ProjectGuid": "4e647219-d863-4cf8-9d45-182a0d5903ce",
+      "DisplayName": "Bai_1.8_HamVoid",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
