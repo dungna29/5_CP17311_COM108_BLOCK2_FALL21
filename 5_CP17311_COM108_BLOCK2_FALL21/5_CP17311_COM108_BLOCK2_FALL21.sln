@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CHUA_BAI_LAB12_MAU", "CHUA_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai_1.8_HamVoid", "Bai_1.8_HamVoid\Bai_1.8_HamVoid.vcxproj", "{4E647219-D863-4CF8-9D45-182A0D5903CE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BAI_TAP_MAU_HAM_VOID", "BAI_TAP_MAU_HAM_VOID\BAI_TAP_MAU_HAM_VOID.vcxproj", "{35769511-8CE3-4941-8E70-01F058576685}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{4E647219-D863-4CF8-9D45-182A0D5903CE}.Release|x64.Build.0 = Release|x64
 		{4E647219-D863-4CF8-9D45-182A0D5903CE}.Release|x86.ActiveCfg = Release|Win32
 		{4E647219-D863-4CF8-9D45-182A0D5903CE}.Release|x86.Build.0 = Release|Win32
+		{35769511-8CE3-4941-8E70-01F058576685}.Debug|x64.ActiveCfg = Debug|x64
+		{35769511-8CE3-4941-8E70-01F058576685}.Debug|x64.Build.0 = Debug|x64
+		{35769511-8CE3-4941-8E70-01F058576685}.Debug|x86.ActiveCfg = Debug|Win32
+		{35769511-8CE3-4941-8E70-01F058576685}.Debug|x86.Build.0 = Debug|Win32
+		{35769511-8CE3-4941-8E70-01F058576685}.Release|x64.ActiveCfg = Release|x64
+		{35769511-8CE3-4941-8E70-01F058576685}.Release|x64.Build.0 = Release|x64
+		{35769511-8CE3-4941-8E70-01F058576685}.Release|x86.ActiveCfg = Release|Win32
+		{35769511-8CE3-4941-8E70-01F058576685}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

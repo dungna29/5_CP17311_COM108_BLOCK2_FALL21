@@ -35,7 +35,12 @@
       "ProjectGuid": "4e647219-d863-4cf8-9d45-182a0d5903ce",
       "DisplayName": "Bai_1.8_HamVoid",
       "ColorIndex": 6
+    },
+    "35769511-8ce3-4941-8e70-01f058576685": {
+      "ProjectGuid": "35769511-8ce3-4941-8e70-01f058576685",
+      "DisplayName": "BAI_TAP_MAU_HAM_VOID",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
