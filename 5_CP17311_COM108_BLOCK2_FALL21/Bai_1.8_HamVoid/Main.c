@@ -38,6 +38,18 @@ void phepNhan2So(int a1, int b1)//Hàm không trả về nhưng có tham số
 {
 	printf_s("%d x %d = %d", a1, b1, a1 * b1);
 }
+/*
+ * Tham số của hàm có thể là nhiều tham số có những kiểu dữ liệu khác nhau phục vụ bài toán.
+ */
+void funtion1(int c, double a, char c1,float d1)
+{
+
+}
+/*
+ * Thông thường chúng ta nên khai báo hàm ở phía trên
+ */
+void hamChucNang1();//Khai báo hàm chứ chưa hề code, việc khai báo này giúp để main gần phía trên hơn và dễ quản lý code hơn.
+void hamChucNang2(int a, int b, int c);
 int main()
 {
 
@@ -62,5 +74,20 @@ int main()
 		printf_s("Chuc nang ban chon khong ton tai");
 		break;
 	}
-
+	/*
+	 * Bài tập: Tạo cho thầy 1 Project mới để làm bài tập sau.
+	 * Viết 1 chương trình có menu và vòng lặp. Bao gồm các bài sau: 
+	 * 1. Phép cộng 4 số (Sử dụng hàm không tham số)
+	 * 2. Phép Nhân 5 số (Sử dụng hàm có 5 tham số truyền vào)
+	 * 3. Tính hiệu các số nhập vào do người dùng chỉ định(Sử dụng hàm không tham số)
+	 * 4. Kiểm tra số nhập vào có phải số chia hết cho 3(Sử dụng hàm có tham số.)
+	 */
+}
+void hamChucNang1()
+{
+	//Triển khai code sau khi đã khai báo ở trên.
+}
+void hamChucNang2(int a, int b, int c)
+{
+	//Triển khai code sau khi đã khai báo ở trên.
 }
