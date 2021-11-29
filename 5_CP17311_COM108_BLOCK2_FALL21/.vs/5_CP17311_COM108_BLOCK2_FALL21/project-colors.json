@@ -40,7 +40,22 @@
       "ProjectGuid": "35769511-8ce3-4941-8e70-01f058576685",
       "DisplayName": "BAI_TAP_MAU_HAM_VOID",
       "ColorIndex": 7
+    },
+    "858b83f5-d600-4560-9ba6-ae1d95d2bbe4": {
+      "ProjectGuid": "858b83f5-d600-4560-9ba6-ae1d95d2bbe4",
+      "DisplayName": "Bai_1.9_HamTraVe",
+      "ColorIndex": 8
+    },
+    "c5c2b0d1-03c3-4bae-a1ea-85c986476e2c": {
+      "ProjectGuid": "c5c2b0d1-03c3-4bae-a1ea-85c986476e2c",
+      "DisplayName": "Bai_2.0_Mang_Array",
+      "ColorIndex": 9
+    },
+    "30a957a5-57f4-4b22-83d7-7260129f7523": {
+      "ProjectGuid": "30a957a5-57f4-4b22-83d7-7260129f7523",
+      "DisplayName": "Bai_2.1_ThuatToanSapXepNoiBot",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }
