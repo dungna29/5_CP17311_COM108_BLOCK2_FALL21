@@ -55,7 +55,17 @@
       "ProjectGuid": "30a957a5-57f4-4b22-83d7-7260129f7523",
       "DisplayName": "Bai_2.1_ThuatToanSapXepNoiBot",
       "ColorIndex": 10
+    },
+    "44730bba-da7d-4be4-a247-6808fca82f13": {
+      "ProjectGuid": "44730bba-da7d-4be4-a247-6808fca82f13",
+      "DisplayName": "Bai_2.2_StringTrongC",
+      "ColorIndex": 11
+    },
+    "8c8e47a4-681f-42a0-afc8-de69155de272": {
+      "ProjectGuid": "8c8e47a4-681f-42a0-afc8-de69155de272",
+      "DisplayName": "Bai_2.3_HamCuaCHuoi",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }

@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 int main()
 {
 	int arrNumber[] = { 99,55,66,1 };
@@ -7,20 +7,22 @@ int main()
 	{
 		printf("%d ", arrNumber[i]);
 	}
-
-	/*for (int i = 0; i < 4 -1; i++)
-	{
-		for (int j = i + 1; j < 4; j++)
-		{
-			if (arrNumber[i] > arrNumber[j])
-			{
-				int temp = arrNumber[i];
-				arrNumber[i] = arrNumber[j];
-				arrNumber[j] = temp;
-			}
-		}
-	}*/
-	for (int i = 0; i < 4; i++)
+	printf_s("\n");
+	// for (int i = 0; i < 4-1; ++i)
+	// {
+	// 	for (int j = i+1; j < 4; ++j)
+	// 	{
+	// 		if (arrNumber[i] > arrNumber[j])//> đổi thành < sẽ thành sắp xếp ngược
+	// 		{
+	// 			//Hoán vị
+	// 			int temp = arrNumber[i];
+	// 			arrNumber[i] = arrNumber[j];
+	// 			arrNumber[j] = temp;
+	// 		}
+	// 	}
+	// }
+	
+	for (int i = 0; i < 4-1; i++)
 	{
 		printf("Lan chay thu: %d \n", i);
 		printf("Gia Tri Tai Vi Tri %d \n", arrNumber[i]);
